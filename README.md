@@ -1,0 +1,1 @@
+This project returns the configured Product details for redsky.target.com
